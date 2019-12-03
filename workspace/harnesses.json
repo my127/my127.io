@@ -31,6 +31,10 @@
         "v0.2.9": {
           "type": "tar.gz",
           "url": "https://github.com/inviqa/harness-php/archive/0.2.9.tar.gz"
+        },
+        "v0.3.0": {
+          "type": "tar.gz",
+          "url": "https://github.com/inviqa/harness-php/archive/0.3.0.tar.gz"
         }
     },
     "inviqa/keycloak": {
@@ -91,6 +95,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-akeneo/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-akeneo/archive/0.3.0.tar.gz"
       }
     },
     "inviqa/spryker": {
@@ -121,6 +129,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-spryker/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-spryker/archive/0.3.0.tar.gz"
       }
     },
     "inviqa/drupal8": {
@@ -191,6 +203,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-drupal8/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-drupal8/archive/0.3.0.tar.gz"
       }
     },
     "inviqa/magento2": {
@@ -253,6 +269,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-magento2/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-magento2/archive/0.3.0.tar.gz"
       }
     },
     "inviqa/magento1": {
@@ -319,6 +339,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-magento1/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-magento1/archive/0.3.0.tar.gz"
       }
     },
     "inviqa/node": {
@@ -383,6 +407,10 @@
       "v0.2.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-wordpress/archive/0.2.9.tar.gz"
+      },
+      "v0.3.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-wordpress/archive/0.3.0.tar.gz"
       }
     }
 }
