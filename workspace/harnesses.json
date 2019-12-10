@@ -81,6 +81,10 @@
        "v0.4.9": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.9.tar.gz"
+       },
+       "v0.5.0": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-keycloak/archive/0.5.0.tar.gz"
        }
     },
     "inviqa/akeneo": {
