@@ -189,6 +189,10 @@
       "v0.3.4.1": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-spryker/archive/0.3.4.1.tar.gz"
+      },
+      "v0.3.4.2": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-spryker/archive/0.3.4.2.tar.gz"
       }
     },
     "inviqa/drupal8": {
