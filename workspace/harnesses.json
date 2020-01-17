@@ -139,6 +139,10 @@
       "v0.3.4": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-akeneo/archive/0.3.4.tar.gz"
+      },
+      "v0.3.5": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-akeneo/archive/0.3.5.tar.gz"
       }
     },
     "inviqa/spryker": {
