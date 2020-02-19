@@ -17,7 +17,7 @@
       "v0.2.0": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-go/archive/0.2.0.tar.gz"
-      },
+      }
     },
     "inviqa/php": {
         "v0.2.5": {
