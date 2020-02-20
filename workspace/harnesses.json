@@ -21,6 +21,10 @@
       "v0.2.1": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-go/archive/0.2.1.tar.gz"
+      },
+      "v0.2.2": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-go/archive/0.2.2.tar.gz"
       }
     },
     "inviqa/php": {
