@@ -479,6 +479,10 @@
       "v0.5.1": {
         "type": "tar.gz",
         "url": "https://github.com/inviqa/harness-drupal8/archive/0.5.1.tar.gz"
+      },
+      "dev-0.6.x": {
+        "type": "tar.gz",
+        "url": "https://github.com/inviqa/harness-drupal8/archive/0.6.x.tar.gz"
       }
     },
     "inviqa/magento2": {
