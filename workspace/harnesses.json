@@ -39,6 +39,12 @@
       "url": "https://github.com/inviqa/harness-go/archive/0.4.0.tar.gz"
     }
   },
+  "inviqa/node-spa": {
+    "dev-main": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-php/archive/main.tar.gz"
+    },
+  }
   "inviqa/php": {
     "v0.2.5": {
       "type": "tar.gz",
