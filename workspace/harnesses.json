@@ -43,7 +43,7 @@
     "dev-main": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-php/archive/main.tar.gz"
-    },
+    }
   },
   "inviqa/php": {
     "v0.2.5": {
