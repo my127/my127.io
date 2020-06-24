@@ -42,7 +42,7 @@
   "inviqa/node-spa": {
     "dev-main": {
       "type": "tar.gz",
-      "url": "https://github.com/inviqa/harness-php/archive/main.tar.gz"
+      "url": "https://github.com/inviqa/harness-node-spa/archive/main.tar.gz"
     }
   },
   "inviqa/php": {
