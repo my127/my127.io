@@ -3,66 +3,66 @@
     "v1.0.0": {
       "type": "tar.gz",
       "url": "https://my127.io/workspace/empty.tar.gz",
-      "date": ""
+      "date": "2019-12-03"
     }
   },
   "inviqa/go": {
     "v0.1.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.1.0.tar.gz",
-      "date": ""
+      "date": "2019-10-29"
     },
     "v0.1.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.1.1.tar.gz",
-      "date": ""
+      "date": "2020-01-03"
     },
     "v0.2.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.2.0.tar.gz",
-      "date": ""
+      "date": "2020-02-19"
     },
     "v0.2.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.2.1.tar.gz",
-      "date": ""
+      "date": "2020-02-19"
     },
     "v0.2.2": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.2.2.tar.gz",
-      "date": ""
+      "date": "2020-02-20"
     },
     "v0.3.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.3.0.tar.gz",
-      "date": ""
+      "date": "2020-02-24"
     },
     "dev-0.4.x": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.4.x.tar.gz",
-      "date": ""
+      "date": "2020-04-22"
     },
     "v0.4.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.4.0.tar.gz",
-      "date": ""
+      "date": "2020-04-22"
     },
     "v0.5.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.5.0.tar.gz",
-      "date": ""
+      "date": "2020-09-01"
     },
     "v0.5.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.5.1.tar.gz",
-      "date": ""
+      "date": "2020-09-02"
     }
   },
   "inviqa/node-spa": {
     "dev-main": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-node-spa/archive/main.tar.gz",
-      "date": ""
+      "date": "2020-09-18"
     }
   },
   "inviqa/php": {
@@ -221,67 +221,67 @@
     "v0.1.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.1.0.tar.gz",
-      "date": ""
+      "date": "2019-06-26"
     },
     "v0.2.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.2.0.tar.gz",
-      "date": ""
+      "date": "2019-06-26"
     },
     "v0.3.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.3.0.tar.gz",
-      "date": ""
+      "date": "2019-06-26"
     },
     "v0.3.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.3.1.tar.gz",
-      "date": ""
+      "date": "2019-06-27"
     },
     "v0.4.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.0.tar.gz",
-      "date": ""
+      "date": "2019-07-09"
     },
     "v0.4.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.1.tar.gz",
-      "date": ""
+      "date": "2019-07-10"
     },
     "v0.4.2": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.2.tar.gz",
-      "date": ""
+      "date": "2019-07-12"
     },
     "v0.4.3": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.3.tar.gz",
-      "date": ""
+      "date": "2019-08-02"
     },
     "v0.4.8": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.8.tar.gz",
-      "date": ""
+      "date": "2019-10-10"
     },
     "v0.4.9": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.4.9.tar.gz",
-      "date": ""
+      "date": "2019-10-21"
     },
     "v0.5.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.5.0.tar.gz",
-      "date": ""
+      "date": "2019-12-10"
     },
     "v0.6.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.6.0.tar.gz",
-      "date": ""
+      "date": "2020-01-17"
     },
     "v0.7.0": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-keycloak/archive/0.7.0.tar.gz",
-      "date": ""
+      "date": "2020-03-10"
     }
   },
   "inviqa/akeneo": {
@@ -1213,7 +1213,7 @@
     "v0.1.9": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-node/archive/0.1.9.tar.gz",
-      "date": ""
+      "date": "2018-12-04"
     }
   },
   "inviqa/wordpress": {
@@ -1360,7 +1360,7 @@
     "v0.5.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-wordpress/archive/0.5.1.tar.gz",
-      "date": ""
+      "date": "2020-03-26"
     },
     "v0.6.0": {
       "type": "tar.gz",
@@ -1432,7 +1432,7 @@
     "v0.5.1": {
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-symfony/archive/0.5.1.tar.gz",
-      "date": ""
+      "date": "2020-03-26"
     },
     "v0.6.0": {
       "type": "tar.gz",
