@@ -1478,6 +1478,13 @@
       "date": "2020-10-30"
     }
   },
+  "inviqa/viper": {
+    "v0.2.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-viper/archive/0.2.x.tar.gz",
+      "date": "2020-11-04"
+    }
+  },
   "inviqa/symfony": {
     "v0.3.13": {
       "type": "tar.gz",
