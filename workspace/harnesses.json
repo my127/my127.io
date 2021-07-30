@@ -101,6 +101,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-go/archive/0.10.3.tar.gz",
       "date": "2021-06-09"
+    },
+    "v0.10.4": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-go/archive/0.10.4.tar.gz",
+      "date": "2021-07-30"
     }
   },
   "inviqa/node-spa": {
