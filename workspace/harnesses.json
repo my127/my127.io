@@ -619,6 +619,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-akeneo/archive/1.1.2.tar.gz",
       "date": "2021-08-17"
+    },
+    "dev-1.2.x": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-akeneo/archive/1.2.x.tar.gz",
+      "date": "2021-09-07"
     }
   },
   "inviqa/spryker": {
