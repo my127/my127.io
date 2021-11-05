@@ -9,7 +9,7 @@
   "inviqa/docker": {
     "dev-main": {
       "type": "tar.gz",
-      "url": "https://github.com/inviqa/harness-go/archive/main.tar.gz",
+      "url": "https://github.com/inviqa/harness-docker/archive/main.tar.gz",
       "date": "2021-11-04"
     }
   },
