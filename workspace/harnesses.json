@@ -6,6 +6,13 @@
       "date": "2019-12-03"
     }
   },
+  "inviqa/docker": {
+    "dev-main": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-go/archive/main.tar.gz",
+      "date": "2021-11-04"
+    }
+  },
   "inviqa/go": {
     "v0.1.0": {
       "type": "tar.gz",
