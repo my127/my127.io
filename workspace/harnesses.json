@@ -2158,8 +2158,8 @@
   "inviqa/viper": {
     "v0.2.0": {
       "type": "tar.gz",
-      "url": "https://github.com/inviqa/harness-viper/archive/0.2.x.tar.gz",
-      "date": "2020-11-04"
+      "url": "https://github.com/inviqa/harness-viper/archive/0.2.0.tar.gz",
+      "date": "2020-12-03"
     },
     "v0.2.1": {
       "type": "tar.gz",
