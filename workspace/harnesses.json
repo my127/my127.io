@@ -1936,6 +1936,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-node/archive/0.1.9.tar.gz",
       "date": "2018-12-04"
+    },
+    "v0.3.1": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-node/archive/0.3.1.tar.gz",
+      "date": "2022-06-30"
     }
   },
   "inviqa/wordpress": {
@@ -2245,6 +2250,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-viper/archive/0.3.0.tar.gz",
       "date": "2022-04-22"
+    },
+    "v0.3.1": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-viper/archive/0.3.1.tar.gz",
+      "date": "2022-06-30"
     }
   },
   "inviqa/symfony": {
