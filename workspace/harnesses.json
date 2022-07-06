@@ -2260,6 +2260,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-viper/archive/0.3.1.tar.gz",
       "date": "2022-06-30"
+    },
+    "v0.3.2": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-viper/archive/0.3.2.tar.gz",
+      "date": "2022-07-06"
     }
   },
   "inviqa/symfony": {
