@@ -447,6 +447,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-php/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-php/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/keycloak": {
@@ -766,6 +771,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-akeneo/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-akeneo/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/spryker": {
@@ -1033,6 +1043,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-spryker/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-spryker/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/drupal8": {
@@ -1347,6 +1362,13 @@
       "date": "2022-06-24"
     }
   },
+  "inviqa/drupal": {
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-drupal/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
+    }
+  },
   "inviqa/magento2": {
     "v0.1.0": {
       "type": "tar.gz",
@@ -1647,6 +1669,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-magento2/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-magento2/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/magento1": {
@@ -1949,6 +1976,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-magento1/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-magento1/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/node": {
@@ -2253,6 +2285,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-wordpress/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-wordpress/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   },
   "inviqa/viper": {
@@ -2452,6 +2489,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-symfony/archive/1.4.1.tar.gz",
       "date": "2022-06-24"
+    },
+    "v1.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-symfony/archive/1.5.0.tar.gz",
+      "date": "2023-05-12"
     }
   }
 }
