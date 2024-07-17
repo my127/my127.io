@@ -497,6 +497,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-php.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-php.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/keycloak": {
@@ -846,6 +851,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-akeneo.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-akeneo.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/spryker": {
@@ -1143,6 +1153,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-spryker.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-spryker.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/drupal8": {
@@ -1487,6 +1502,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-drupal.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-drupal.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/magento2": {
@@ -1819,6 +1839,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-magento2.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-magento2.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/magento1": {
@@ -2151,6 +2176,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-magento1.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-magento1.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/node": {
@@ -2485,6 +2515,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-wordpress.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-wordpress.tgz",
+      "date": "2024-07-17"
     }
   },
   "inviqa/viper": {
@@ -2714,6 +2749,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.2/harness-symfony.tgz",
       "date": "2023-10-19"
+    },
+    "v1.6.3": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-php/releases/download/1.6.3/harness-symfony.tgz",
+      "date": "2024-07-17"
     }
   }
 }
