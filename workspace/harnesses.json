@@ -26,6 +26,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-docker/archive/0.3.0.tar.gz",
       "date": "2023-11-22"
+    },
+    "v0.4.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-docker/archive/0.4.0.tar.gz",
+      "date": "2024-07-31"
     }
   },
   "inviqa/go": {
