@@ -215,6 +215,13 @@
       "date": "2023-08-29"
     }
   },
+  "inviqa/nextjs": {
+    "v0.4.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-node/releases/download/0.4.0/harness-nextjs.tgz",
+      "date": "2024-08-06"
+    }
+  },
   "inviqa/node-spa": {
     "dev-main": {
       "type": "tar.gz",
