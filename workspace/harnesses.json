@@ -220,6 +220,11 @@
       "type": "tar.gz",
       "url": "https://github.com/inviqa/harness-base-node/releases/download/0.4.0/harness-nextjs.tgz",
       "date": "2024-08-06"
+    },
+    "v0.5.0": {
+      "type": "tar.gz",
+      "url": "https://github.com/inviqa/harness-base-node/releases/download/0.5.0/harness-nextjs.tgz",
+      "date": "2026-08-28"
     }
   },
   "inviqa/node-spa": {
